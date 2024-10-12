@@ -7,7 +7,7 @@ function Footer() {
       <div className="flex justify-center items-center space-x-4 flex-col gap-2">
         <p className="text-center text-sm">© BlogApp Made by Eugine Agolla</p>
         <a
-          href="https://github.com/xensen008/xensen008"
+          href="https://github.com/E-ugine/WonderWords-BlogApp.git"
           target="_blank"
           rel="noopener noreferrer"
         >
